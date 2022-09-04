@@ -1,16 +1,14 @@
-### Hi there 👋
+# hopto-dot's GitHub
 
-<!--
-**hopto-dot/hopto-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hi there! I'm hopto-dot**
 
-Here are some ideas to get you started:
+I specialise in web requests and am interesting in reverse engineering. I've made a variety of tools related to learning Japanese, including tools for [jpdb.io](https://jpdb.io/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Comfortable | Learning  | Want to Learn |
+|      -      |    -      |    -          |
+| C#          | JavaScript| Python        |
+| VB.NET      | HTML      | C++           |
+| XAML        |           | Rust          |
+| CSS         |           | TypeScript    |
+
+![hopto-dot's statistics](https://github-readme-stats.vercel.app/api?username=hopto-dot&show_icons=true&theme=onedark)
