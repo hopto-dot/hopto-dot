@@ -1,6 +1,6 @@
 # hopto-dot's GitHub
 
-**Hi there! I'm hopto-dot**
+**Hi there! I'm hopto-dot or JawGBoi**
 
 I specialise in web requests and am interesting in reverse engineering. I have made a variety of tools related to learning Japanese, including tools for [jpdb.io](https://jpdb.io/).
 
