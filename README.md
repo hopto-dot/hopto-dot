@@ -1,6 +1,6 @@
 # JawGBoi's GitHub Page
 
-**Hi there! I'm hopto-dot, AKA JawGBoi. I am the maintainer of the unofficial [JPDB discord bot](https://github.com/hopto-dot/JPDB-Discord-Bot).**
+**Hi there! I'm JawGBoi. I am the maintainer of the unofficial [JPDB discord bot](https://github.com/hopto-dot/JPDB-Discord-Bot).**
 
 I specialise in reverse engineering web APIs. My main focus is making tools for learners of Japanese.
 
